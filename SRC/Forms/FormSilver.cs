@@ -1,6 +1,7 @@
 using Bunifu.Framework.UI;
 using Bunifu.UI.WinForms;
 using Bunifu.UI.WinForms.BunifuButton;
+using cGeoIp;
 using Guna.UI2.WinForms;
 using Microsoft.CSharp;
 using Microsoft.VisualBasic;
